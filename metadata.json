@@ -1,0 +1,6 @@
+{
+  "name": "Air Zimbabwe Internet Booking Engine",
+  "description": "Production-grade IATA NDC-compliant Internet Booking Engine for Air Zimbabwe with flight search, seat mapping, baggage calculators, secure multi-tender payments, online check-in, and PNR management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
